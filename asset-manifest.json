@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CryptoTool/crypto_convert/static/css/main.1174df25.chunk.css",
-    "main.js": "/CryptoTool/crypto_convert/static/js/main.d630f392.chunk.js",
-    "main.js.map": "/CryptoTool/crypto_convert/static/js/main.d630f392.chunk.js.map",
+    "main.js": "/CryptoTool/crypto_convert/static/js/main.1f528e4d.chunk.js",
+    "main.js.map": "/CryptoTool/crypto_convert/static/js/main.1f528e4d.chunk.js.map",
     "runtime-main.js": "/CryptoTool/crypto_convert/static/js/runtime-main.a6336951.js",
     "runtime-main.js.map": "/CryptoTool/crypto_convert/static/js/runtime-main.a6336951.js.map",
     "static/css/2.61b4cb56.chunk.css": "/CryptoTool/crypto_convert/static/css/2.61b4cb56.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.1b9c1ced.chunk.js",
     "static/css/main.1174df25.chunk.css",
-    "static/js/main.d630f392.chunk.js"
+    "static/js/main.1f528e4d.chunk.js"
   ]
 }
