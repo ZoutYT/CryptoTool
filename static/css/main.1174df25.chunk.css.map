@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBAAiB,CACjB,QAAQ,CACR,SAAS,CACT,+FACF","file":"main.1174df25.chunk.css","sourcesContent":[".App {\n  text-align:center;\n  margin:0;\n  padding:0;\n  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;\n}\n\n\n"]}

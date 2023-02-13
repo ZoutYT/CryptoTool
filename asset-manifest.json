@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CryptoTool/crypto_convert/static/css/main.1174df25.chunk.css",
+    "main.js": "/CryptoTool/crypto_convert/static/js/main.1f528e4d.chunk.js",
+    "main.js.map": "/CryptoTool/crypto_convert/static/js/main.1f528e4d.chunk.js.map",
+    "runtime-main.js": "/CryptoTool/crypto_convert/static/js/runtime-main.a6336951.js",
+    "runtime-main.js.map": "/CryptoTool/crypto_convert/static/js/runtime-main.a6336951.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/CryptoTool/crypto_convert/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.1b9c1ced.chunk.js": "/CryptoTool/crypto_convert/static/js/2.1b9c1ced.chunk.js",
+    "static/js/2.1b9c1ced.chunk.js.map": "/CryptoTool/crypto_convert/static/js/2.1b9c1ced.chunk.js.map",
+    "static/js/3.3a82357e.chunk.js": "/CryptoTool/crypto_convert/static/js/3.3a82357e.chunk.js",
+    "static/js/3.3a82357e.chunk.js.map": "/CryptoTool/crypto_convert/static/js/3.3a82357e.chunk.js.map",
+    "index.html": "/CryptoTool/crypto_convert/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/CryptoTool/crypto_convert/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.1174df25.chunk.css.map": "/CryptoTool/crypto_convert/static/css/main.1174df25.chunk.css.map",
+    "static/js/2.1b9c1ced.chunk.js.LICENSE.txt": "/CryptoTool/crypto_convert/static/js/2.1b9c1ced.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6336951.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.1b9c1ced.chunk.js",
+    "static/css/main.1174df25.chunk.css",
+    "static/js/main.1f528e4d.chunk.js"
+  ]
+}
