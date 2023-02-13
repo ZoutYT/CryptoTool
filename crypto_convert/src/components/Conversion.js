@@ -3,7 +3,7 @@ import React from 'react'
 
 function ConversionItem(props) {
     const deleteConversionHandler = (Coin) => {
-    axios.delete(`http://210.246.19.166:8000/api/conversion/${Coin}`)
+    axios.delete(`http://localhost:8000/api/conversion/${Coin}`)
         .then(res => console.log(res.data)) }
   
     return (

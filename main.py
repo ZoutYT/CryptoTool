@@ -17,7 +17,7 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    "https://ZoutYT.github.io/CryptoTool/crypto_convert",
+    "http://localhost:3000",
 ]
 
 # what is a middleware? 

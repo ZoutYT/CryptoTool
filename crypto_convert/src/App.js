@@ -15,7 +15,7 @@ function App() {
     
 
   useEffect(() => {
-    axios.get('http://210.246.19.166:8000/api/conversion')
+    axios.get('http://localhost:8000/api/conversion')
       .then(res => {
         setTodoList(res.data)
       })
@@ -23,7 +23,7 @@ function App() {
 
   // Post a todo
   const addTodoHandler = () => {
-    axios.post('http://210.246.19.166:8000/api/conversion/', {'Address': addy, 'Chain' : erc, 'Coin' : coin})
+    axios.post('http://localhost:8000/api/conversion/', {'Address': addy, 'Chain' : erc, 'Coin' : coin})
       .then(res => console.log(res))
   };
   return (
